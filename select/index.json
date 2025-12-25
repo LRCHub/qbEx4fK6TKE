@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "SOUL'd OUT　『Magenta Magenta』",
+  "base_artist": "SOUL'd OUT",
+  "createdAt": "2025-12-25T15:29:03.857517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magenta Magenta",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/01_Magenta_Magenta_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magenta Magenta",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/02_Magenta_Magenta_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Magenta Magenta",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/03_Magenta_Magenta_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "magenta magenta (good version)",
+      "artist": "soul'd out",
+      "has_synced": true,
+      "path": "select/04_magenta_magenta_(good_version)_soul'd_out.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magenta Magenta",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/05_Magenta_Magenta_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magenta Magenta",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/pl_01_Magenta_Magenta_SOUL'd_OUT.txt"
+    }
+  ]
+}
